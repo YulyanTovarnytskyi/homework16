@@ -1,3 +1,16 @@
+.preloader {
+  
+    width: 100%;
+    height: 67%;
+    z-index: 9999;
+    background-image: url('../img/AggravatingIdioticAmericancreamdraft-size_restricted.gif');
+    background-repeat: no-repeat; 
+    background-color: #FFF;
+    background-position: center;
+ 
+
+}
+
 img {
     width: auto;
     height: auto;
